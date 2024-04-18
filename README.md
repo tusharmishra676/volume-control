@@ -1,4 +1,5 @@
 # volume-control
+
 To implement gesture-based volume control the project utilizes a combination of hardware and 
 software components. A webcam captures real-time video input which processed through OpenCV 
 and Mediapipe to detect and track hand movements and we use hand landmark model . By PyCaw 
